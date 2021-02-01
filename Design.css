@@ -1,0 +1,36 @@
+body
+{
+    font-family: Arial, sans-serif;
+}
+
+td
+{
+    width: 250px;
+}
+
+span, p
+{
+    color: #ff0000;
+}
+
+textarea
+{
+    resize: none;
+}
+
+.title
+{
+    background-color: #ddd;
+    padding: 5px;
+    font-weight: 700;
+}
+
+.margin-top
+{
+    margin-top: 15px;
+}
+
+.margin-bottom
+{
+    margin-bottom: 30px;
+}
